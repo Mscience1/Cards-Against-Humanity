@@ -1,0 +1,11 @@
+C:\Users\User\Documents\מחברות כיתה יא\מדעי המחשב\10 points projects\card against humanity Project\card against humanity Project\bin\Debug\card against humanity Project.exe.config
+C:\Users\User\Documents\מחברות כיתה יא\מדעי המחשב\10 points projects\card against humanity Project\card against humanity Project\bin\Debug\card against humanity Project.exe
+C:\Users\User\Documents\מחברות כיתה יא\מדעי המחשב\10 points projects\card against humanity Project\card against humanity Project\bin\Debug\card against humanity Project.pdb
+C:\Users\User\Documents\מחברות כיתה יא\מדעי המחשב\10 points projects\card against humanity Project\card against humanity Project\obj\Debug\card against humanity Project.csprojAssemblyReference.cache
+C:\Users\User\Documents\מחברות כיתה יא\מדעי המחשב\10 points projects\card against humanity Project\card against humanity Project\obj\Debug\card_against_humanity_Project.Miki_and_Lior.resources
+C:\Users\User\Documents\מחברות כיתה יא\מדעי המחשב\10 points projects\card against humanity Project\card against humanity Project\obj\Debug\card_against_humanity_Project.Properties.Resources.resources
+C:\Users\User\Documents\מחברות כיתה יא\מדעי המחשב\10 points projects\card against humanity Project\card against humanity Project\obj\Debug\card against humanity Project.csproj.GenerateResource.cache
+C:\Users\User\Documents\מחברות כיתה יא\מדעי המחשב\10 points projects\card against humanity Project\card against humanity Project\obj\Debug\card against humanity Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\מחברות כיתה יא\מדעי המחשב\10 points projects\card against humanity Project\card against humanity Project\obj\Debug\card against humanity Project.exe
+C:\Users\User\Documents\מחברות כיתה יא\מדעי המחשב\10 points projects\card against humanity Project\card against humanity Project\obj\Debug\card against humanity Project.pdb
+C:\Users\User\Documents\מחברות כיתה יא\מדעי המחשב\10 points projects\card against humanity Project\card against humanity Project\obj\Debug\card_against_humanity_Project.Game.resources
